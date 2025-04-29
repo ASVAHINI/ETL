@@ -16,7 +16,7 @@ To gather product information from IndiaMART, I utilized a web scraping tool. Th
 - Company names
 - Supplier locations
 
-The collected data was saved into a CSV file named `IndiaMart.csv`.
+The collected data was saved into a CSV file named `Indiamart.csv`.
 
 ---
 
