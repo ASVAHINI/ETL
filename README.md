@@ -1,4 +1,4 @@
-# IndiaMART Data Collection and Analysis
+# Indiamart Data Collection and Analysis
 
 ## Project Overview
 
